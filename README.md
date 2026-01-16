@@ -1,1 +1,1 @@
-# ICCA_aircraft_takeoff_performance_EUR-MED
+Gallardo et al. (2026) Climate Atlases
