@@ -10,7 +10,7 @@ Interactive Atlases of the future magnitude of high-temperature extreme events a
 
 Related Publications
 ------------------------------------------------------------------------------------------------------------------------------
-Gallardo, V., Sánchez-Gómez, E., Riber, E., Bonnet, S. & Jiménez-Guerrero, P. (2026). Assessing Climate Change Impacts on Aircraft TakeOff Performance: Potential Consequences of Increasing High-Temperature Extremes at Euro-Mediterranean airports, Climatic Change (ACCEPTED).
+Gallardo, V., Sánchez-Gómez, E., Riber, E., Bonnet, S. & Jiménez-Guerrero, P. (2026). Assessing Climate Change Impacts on Aircraft TakeOff Performance: Potential Consequences of Increasing High-Temperature Extremes at Euro-Mediterranean airports, Climatic Change (ACCEPTED). DOI: https://doi.org/10.1007/s10584-026-04105-8
 
 Gallardo, V., Sánchez-Gómez, E., Riber, E., Boé, J., & Terray, L. (2023). Evolution of high-temperature extremes over the main Euro-Mediterranean airports. Climate Dynamics, 61(3), 1717-1740. DOI: https://doi.org/10.1007/s00382-022-06652-z
 
