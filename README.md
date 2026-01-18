@@ -2,7 +2,7 @@ Gallardo et al. (2026) Climate Atlases
 ------------------------------------------------------------------------------------------------------------------------------
 ICCA_aircraft_takeoff_performance_EUR-MED: data going along with the research paper Gallardo et al. (2026; see reference below) assessing the future magnitude of high-temperature extremes at Euro-Mediterranean airports, and the potential consequences on aircraft takeoff performance in terms of the Maximum TakeOff Weight (MTOW). 
 
-Interactive Atlases of the future magnitude of high-temperature extreme events at the local scale of Euro-Mediterranean airports under the high-emissions scenario RCP8.5: 
+Interactive atlases of the future magnitude of high-temperature extreme events at the local scale of Euro-Mediterranean airports under the high-emissions scenario RCP8.5: 
 - By 2021-2050, according to the bias-corrected CMIP5 multi-model ensemble (32 models): https://gallardovictoria.github.io/ICCA_aircraft_takeoff_performance_EUR-MED/interactive_atlases/summer_tx95p_CMIP5_rcp85_2021-2050.html
 - By 2021-2050, according to the bias-corrected CORDEX EUR-11 multi-model ensemble (29 GCMxRCM combinations): https://gallardovictoria.github.io/ICCA_aircraft_takeoff_performance_EUR-MED/interactive_atlases/summer_tx95p_CORDEX_rcp85_2021-2050.html
 - By 2041-2070, according to the bias-corrected CMIP5 multi-model ensemble (32 models): https://gallardovictoria.github.io/ICCA_aircraft_takeoff_performance_EUR-MED/interactive_atlases/summer_tx95p_CMIP5_rcp85_2041-2070.html
