@@ -16,8 +16,12 @@ Gallardo, V., Sánchez-Gómez, E., Riber, E., Boé, J., & Terray, L. (2023). Evo
 
 Gallardo, V. (2023). Impacts of increasing high-temperature extremes on aircraft takeoff performance over the Euro-Mediterranean region, Doctoral dissertation. URL: https://theses.hal.science/tel-04325649v1 
 
-Acknowledgments and Reference
+Acknowledgements and Reference
 ------------------------------------------------------------------------------------------------------------------------------
-If you use these data, please cite the corresponding paper.
+If you use these data, please cite both the corresponding paper and the data repository: 
+
+Gallardo, V., Sánchez-Gómez, E., Riber, E., Bonnet, S. & Jiménez-Guerrero, P. (2026). Assessing Climate Change Impacts on Aircraft TakeOff Performance: Potential Consequences of Increasing High-Temperature Extremes at Euro-Mediterranean airports, Climatic Change. DOI: https://doi.org/10.1007/s10584-026-04105-8
+
+Gallardo, V. (2026). Climate Atlases for assessing Climate Change Impacts on Aviation over Euro-Mediterranean airports [Github repository]. URL: https://github.com/gallardovictoria/ICCA_aircraft_takeoff_performance_EUR-MED
 
 
