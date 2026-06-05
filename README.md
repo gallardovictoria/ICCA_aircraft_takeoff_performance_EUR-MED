@@ -1,4 +1,4 @@
-Climate Atlases for assessing climate change impacts on aviation over Euro-Mediterranean airports
+Climate Atlases for assessing Climate Change Impacts on Aviation over Euro-Mediterranean airports
 ------------------------------------------------------------------------------------------------------------------------------
 ICCA_aircraft_takeoff_performance_EUR-MED: data going along with the research paper Gallardo et al. (2026; see reference below) assessing the future magnitude of high-temperature extremes at Euro-Mediterranean airports, and the potential consequences on aircraft takeoff performance in terms of the Maximum TakeOff Weight (MTOW). 
 
