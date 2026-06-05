@@ -1,4 +1,4 @@
-Climate Atlases for assessing Climate Change Impacts on Aviation over Euro-Mediterranean airports
+Climate Atlases for assessing Climate Change Impacts on Aviation over Euro-Mediterranean airports & Adaptation Planning
 ------------------------------------------------------------------------------------------------------------------------------
 ICCA_aircraft_takeoff_performance_EUR-MED: data going along with the research paper Gallardo et al. (2026; see reference below) assessing the future magnitude of high-temperature extremes at Euro-Mediterranean airports, and the potential consequences on aircraft takeoff performance in terms of the Maximum TakeOff Weight (MTOW). 
 
@@ -22,6 +22,6 @@ If you use these data, please cite both the corresponding paper and the data rep
 
 Gallardo, V., Sánchez-Gómez, E., Riber, E., Bonnet, S. & Jiménez-Guerrero, P. (2026). Assessing Climate Change Impacts on Aircraft TakeOff Performance: Potential Consequences of Increasing High-Temperature Extremes at Euro-Mediterranean airports, Climatic Change. DOI: https://doi.org/10.1007/s10584-026-04105-8
 
-Gallardo, V. (2026). Climate Atlases for assessing Climate Change Impacts on Aviation over Euro-Mediterranean airports [Github repository]. URL: https://github.com/gallardovictoria/ICCA_aircraft_takeoff_performance_EUR-MED
+Gallardo, V. (2026). Climate Atlases for assessing Climate Change Impacts on Aviation over Euro-Mediterranean airports and Adaptation Planning [Github repository]. URL: https://github.com/gallardovictoria/ICCA_aircraft_takeoff_performance_EUR-MED
 
 
